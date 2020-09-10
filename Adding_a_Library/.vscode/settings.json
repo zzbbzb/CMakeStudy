@@ -1,7 +1,7 @@
 {
     "cmake.configureOnOpen": false,
-    "cmake.sourceDirectory": "${workspaceFolder}/Basic_Starting_Point",
-    "cmake.buildDirectory": "${workspaceFolder}/Basic_Starting_Point/build",
+    "cmake.sourceDirectory": "${workspaceFolder}/",
+    "cmake.buildDirectory": "${workspaceFolder}/build",
     "files.associations": {
         "cmath": "cpp",
         "cstddef": "cpp",
